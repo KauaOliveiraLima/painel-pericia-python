@@ -173,6 +173,6 @@ while True:
     # -----------------------------------------------------------------
     else:
         print()
-        digitar("❌ Opção inválida! Escolha um número de 1 a 5.")
+        digitar("Opção inválida! Escolha um número de 1 a 5.")
         pausa(1.5)
         continue  # Ignora o erro e repita o menu na tela
